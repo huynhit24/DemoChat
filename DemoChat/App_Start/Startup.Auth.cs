@@ -60,8 +60,8 @@ namespace DemoChat
 
             app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {
-                ClientId = "228990242460-69c6qr6edt2cuktrbh1sc2i5n7iitmdc.apps.googleusercontent.com",
-                ClientSecret = "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"
+                ClientId = "31558463548-kbgbarbrtajqotv9r0ognhhsalncff0l.apps.googleusercontent.com",
+                ClientSecret = "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"
             });
         }
     }
